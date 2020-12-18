@@ -1,0 +1,12 @@
+{
+  "name": "admin-mobile-store-app-navigation",
+  "displayName": "admin-mobile-store-app-navigation",
+  "expo": {
+    "name": "admin-mobile-store-app-navigation",
+    "slug": "admin-mobile-store-app-navigation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
